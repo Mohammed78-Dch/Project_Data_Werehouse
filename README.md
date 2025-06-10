@@ -7,7 +7,7 @@
 **Mohammed Dechraoui**  
 Master 2 – Systèmes d'Information et Systèmes Intelligents (M2SI)  
 Institut National de Statistique et d'Économie Appliquée (INSEA)  
-📧 m.dechraoui@insea.ac.ma 
+📧 mdechraoui@insea.ac.ma 
 📅 Academic Year: 2024–2025  
 
 ---
